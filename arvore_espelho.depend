@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648413831 source:c:\users\dell\documents\ed2\arvore_espelho\ex.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
